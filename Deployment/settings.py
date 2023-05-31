@@ -29,8 +29,8 @@ SECRET_KEY = '^adwke-#3oll)1@5wu-%p=d4%i_6vuo+hg@8(kgvoyubpn(*jc'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '52.90.220.221',
-    'ec2-52-90-220-221.compute-1.amazonaws.com',
+    '3.235.149.26',
+    'ec2-3-235-149-26.compute-1.amazonaws.com',
 ]
 
 INSTALLED_APPS = [
