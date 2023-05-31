@@ -78,7 +78,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'mysql.connector.django',
         'NAME': 'quizapp4',
         'USER': 'admin',
         'PASSWORD': 'password',
